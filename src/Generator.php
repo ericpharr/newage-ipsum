@@ -315,7 +315,7 @@ class Generator
             'condensing',
             'ennobling'
         ],
-        'adjBasicWith' => [
+        'adjWith' => [
             'aglow with',
             'buzzing with',
             'beaming with',
@@ -649,4 +649,4 @@ class Generator
             ]
     ];
 
-} 
+}
